@@ -1,0 +1,25 @@
+{
+  "name": "js-string-kit",
+  "description": "A collection of utilities for working with strings.",
+  "version": "1.0.0",
+  "keywords": [
+    "string"
+  ],
+  "author": "Mohammad Zarifiyan",
+  "license": "SEE LICENSE IN LICENSE",
+  "private": false,
+  "type": "module",
+  "exports": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadZarifiyan/js-string-kit.git"
+  },
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "js-locale-kit": "^1"
+  }
+}
