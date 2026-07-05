@@ -1,7 +1,7 @@
 {
   "name": "js-string-kit",
   "description": "A collection of utilities for working with strings.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "string"
   ],

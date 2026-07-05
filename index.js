@@ -46,9 +46,7 @@ export default class StringKit {
             const numbers = this.#localeKit.get('numbers', locale);
 
             for (let index in numbers) {
-                if (typeof index === 'number') {
-                    string = string.split(numbers[index]).join(index);
-                }
+                string = string.split(numbers[index]).join(index);
             }
         }
 
